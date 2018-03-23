@@ -1,0 +1,1 @@
+This is a simple Android application which provides the ability to calculate a GPA using MSOE's grading scale.
